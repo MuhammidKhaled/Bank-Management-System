@@ -142,7 +142,6 @@
     <ClCompile Include="list.cpp" />
     <ClCompile Include="money.cpp" />
     <ClCompile Include="mortgage.cpp" />
-    <ClCompile Include="pdcmain.cpp" />
     <ClCompile Include="porto.cpp" />
     <ClCompile Include="scenario.cpp" />
     <ClCompile Include="transaction.cpp" />
